@@ -1,0 +1,11 @@
+name: LiveXYZ
+api: [3.0.0, 4.0.0]
+version: 1.0.0
+main: livexyz\Main
+website: "https://github.com/DanuRoYT/LiveXYZ"
+author: DanuRoYT
+commands:
+ xyz:
+  description: "Appear your position at the button"
+  permission: danuroyt.livexyz
+  default: op
